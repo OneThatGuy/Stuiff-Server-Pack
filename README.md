@@ -9,4 +9,4 @@ If you already have the mod profile installed, download the mods.zip file.  Extr
 
 
 
-If you do not already have the mod profile, download the stuiffx.x.zip file.  Go to the twitch app and find "create custom profile." Click it and then click on import.  Find the stuiffx.x.zip file in the browser and open it.  The pack will begin installing.  
+If you do not already have the mod profile, download the stuiff-x.x.zip file.  Go to the twitch app and find "create custom profile." Click it and then click on import.  Find the stuiff-x.x.zip file in the browser and open it.  The pack will begin installing.  
